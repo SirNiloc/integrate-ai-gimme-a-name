@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<title>GimmeAName FoundryVTT Module</title>
-</head>
 <body>
 
 <h1>GimmeAName - FoundryVTT Module</h1>
