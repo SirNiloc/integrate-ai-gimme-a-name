@@ -1,6 +1,6 @@
 # GimmeAName - FoundryVTT Module
 
-![GitHub all releases](https://img.shields.io/github/downloads/SirNiloc/integrate-ai-gimme-a-name/total.svg)
+![GitHub all releases](https://img.shields.io/github/downloads/SirNiloc/integrate-ai-gimme-a-name/total.svg) [![discord members](https://discord-live-members-count-badge.vercel.app/api/discord-members?guildId=695448793469943819)](https://discord.gg/kNadwUqqjQ)
 
 ## Module Description
 
